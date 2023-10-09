@@ -1,6 +1,6 @@
 # Task Management API
 
-This is a simple RESTful API for managing tasks. You can perform basic Create, Read, Updateoperations on tasks using this API.
+This is a simple RESTful API for managing tasks. You can perform basic Create, Read, Update operations on tasks using this API.
 
 ## Base Endpoint
 
@@ -123,7 +123,7 @@ A task object has the following properties:
   }
   ```
 - **Example Response:**
-  ```json
+  ```
   task updated successfully
   ```
 
